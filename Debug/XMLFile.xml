@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Electronic name="Electronic">
-  <PortName name="PortName">COM4</PortName>
+  <PortName name="PortName">COM7</PortName>
   <BaudRate name="BaudRate">9600</BaudRate>
 </Electronic>
